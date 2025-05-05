@@ -1,0 +1,49 @@
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\appsettings.json
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Api Completa.exe
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Api Completa.deps.json
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Api Completa.runtimeconfig.json
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Api Completa.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Api Completa.pdb
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\Citendo\source\repos\Api Completa\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\Api Completa.csproj.AssemblyReference.cache
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\Api Completa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\Api Completa.AssemblyInfoInputs.cache
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\Api Completa.AssemblyInfo.cs
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\Api Completa.csproj.CoreCompileInputs.cache
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\Api Completa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\Api Completa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\staticwebassets\msbuild.Api Completa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\staticwebassets\msbuild.build.Api Completa.props
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Api Completa.props
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Api Completa.props
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\scopedcss\bundle\Api Completa.styles.css
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\Api Comp.2CD0932F.Up2Date
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\Api Completa.dll
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\refint\Api Completa.dll
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\Api Completa.pdb
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\Api Completa.genruntimeconfig.cache
+C:\Users\Citendo\source\repos\Api Completa\obj\Debug\net6.0\ref\Api Completa.dll
